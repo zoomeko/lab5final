@@ -1,0 +1,2 @@
+This file is here to oblige Git to add the containing data directory to the project.
+Git ignores empty directories, so this file is only here so the directory is not empty.

@@ -1,0 +1,53 @@
+{ "week" : 5 ,
+  "questions" : [
+    {
+      "question" : 1,
+      "java_file": "Question_1_Write_Name_Color_Class_Code",
+      "test_file": "Question_1_Write_Name_Color_Class_CodeTest",
+      "points": 1
+    },
+    {
+      "question" : 2,
+      "java_file": "Question_2_Write_Recycling_Report",
+      "test_file": "Question_2_Write_Recycling_ReportTest",
+      "points": 3
+    },
+    {
+      "question" : 3,
+      "java_file": "Question_3_Read_Recycling_Report",
+      "test_file": "Question_3_Read_Recycling_ReportTest",
+      "points": 3
+    },
+    {
+      "question" : 4,
+      "java_file": "Question_4_Exception_Handling_Questions",
+      "test_file": "Question_4_Exception_Handling_QuestionsTest",
+      "points": 3
+    },
+    {
+      "question" : 5,
+      "java_file": "Question_5_Add_Exception_Handling",
+      "test_file": "Question_5_Add_Exception_HandlingTest",
+      "points": 2
+    },
+    {
+      "question" : 6,
+      "java_file": "Question_6_Fix_Code_No_Exception_Handling",
+      "test_file": "Question_6_Fix_Code_No_Exception_HandlingTest",
+      "points": 2
+    },
+    {
+      "question" : 7,
+      "java_file": "Question_7_Coffee_Shop",
+      "test_file": "Question_7_Coffee_ShopTest",
+      "points": 5
+    },
+    {
+      "question" : 8,
+      "java_file": "Question_8_Write_Operating_System_Info_To_File_In_Data_Directory",
+      "test_file": "Question_8_Write_Operating_System_Info_To_File_In_Data_DirectoryTest",
+      "points": 1
+    }
+
+  ]
+}
